@@ -1,0 +1,59 @@
+body {
+    background-color: green;
+}
+.title{
+text-align: center;
+font-size: 70px;
+color: paleturquoise;
+filter: drop-shadow(50px)
+m
+}
+#subtitle{
+font-size:50px;
+text-align: center;
+}
+#discription{
+margin-left: 20px;
+margin-right: 20px;
+font-size: 25px;
+}
+#brownie1{
+        width: 400px; 
+        height: 400px;
+        margin-left:500px;
+       border: 5px;
+       border-color: red;       
+}
+#ingridents{
+    text-align: center;
+    font-size: 30px;
+}
+#brownieingridents {
+    width: 400px; 
+        height: 400px;
+        margin-left:100px;
+}
+.steps{
+    text-align: center;
+    font-size: 30px;
+}
+#degrees{
+    width: 400px; 
+    height: 400px;
+    margin-left:100px;
+}
+#matcha{
+    width: 400px; 
+    height: 400px;
+    margin-left:100px;
+}
+#whitechocolate{
+    width: 400px; 
+    height: 400px;
+    margin-left:100px;
+}
+#final{
+    width: 400px; 
+    height: 400px;
+    margin-left:100px;   
+}
